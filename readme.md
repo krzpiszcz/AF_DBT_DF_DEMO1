@@ -7,7 +7,7 @@ Account integrations - Git
 
 Credentials:
 DEMO_AF_DBT_SF_1 - Snowflake
-Account: SWTWMVG-EO50959
+Account: SWTWMVG-EO50959 \n
 Database: DEMO_AF_DBT_1
 Warehouse: COMPUTE_WH
 Schema: dbt_krzpiszcz
