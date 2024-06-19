@@ -1,34 +1,32 @@
-SF create DB:
+# SF create DB:
 
 create or replace database DEMO_AF_DBT_1;
-
 create or replace schema DEMO_AF_DBT_1.AF_DBT_SF_1;
 
 
-Config DBT:
+# Config DBT:
 
 Account integrations - Git
 
-
-Credentials:
+## Credentials:
 DEMO_AF_DBT_SF_1 - Snowflake
 Account: SWTWMVG-EO50959
 Database: DEMO_AF_DBT_1
 Warehouse: COMPUTE_WH
 Schema: dbt_krzpiszcz
 
-Environment:
-DEV
+## Environment:
+### DEV
 Deployment connection:
 Account: SWTWMVG-EO50959
 DB: DEMO_AF_DBT_1
 Warehouse: COMPUTE_WH
 
-Deployment credentials:
+### Deployment credentials:
 krispik1, pwd, schema: AF_DBT_SF_1
 
-Jobs:
+### Jobs:
 ie.: dbt seed
 
-create API token to use in Airflow: 
+### create API token to use in Airflow: 
 "Service token" , ie.: dbt_srv_token1
