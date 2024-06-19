@@ -1,4 +1,4 @@
-**Details in AirFlow_SF_DBT_readme.md  
+**Details in AirFlow_SF_DBT_readme.md**  
 
 Welcome to your new dbt project!
 
