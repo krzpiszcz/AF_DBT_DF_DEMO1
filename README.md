@@ -1,3 +1,5 @@
+**Details in AirFlow_SF_DBT_readme.md  
+
 Welcome to your new dbt project!
 
 ### Using the starter project
