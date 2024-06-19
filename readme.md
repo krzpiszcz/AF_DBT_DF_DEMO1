@@ -5,7 +5,6 @@ create or replace schema DEMO_AF_DBT_1.AF_DBT_SF_1;
 
 # Config DBT:
 Account integrations - Git  
-
 ## Credentials:
 DEMO_AF_DBT_SF_1 - Snowflake  
 Account: SWTWMVG-EO50959  
