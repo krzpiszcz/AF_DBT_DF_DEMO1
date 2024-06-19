@@ -1,7 +1,6 @@
-**_Details in AirFlow_SF_DBT_readme.md_**  
+[^1] **_Details in AirFlow_SF_DBT_readme.md_**  
 
-    
-  Welcome to your new dbt project!
+Welcome to your new dbt project!
 
 ### Using the starter project
 
